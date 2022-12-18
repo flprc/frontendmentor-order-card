@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/103554466/208282445-fd9b8210-75ee-496c-92ca-8c02705036cf.png"></img>
+<img src="https://user-images.githubusercontent.com/103554466/208306262-f03e7b0d-a60e-471d-b221-d8c3a5820a76.png"></img>
 
 # Frontend Mentor - Order summary card solution
 
